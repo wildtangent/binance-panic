@@ -6,7 +6,9 @@ In case you want to dump all your coins to TETHER (Crash under way).
 
 * The API and front end are unprotected.
 * Don't deploy this shit or put it anywhere unsafe.
-* With your API Key and secret someone can do anything to your Binance account, without authenticating or 2FA
+* With your API Key and secret someone can do anything to your Binance account, without authenticating or 2FA.
+
+https://github.com/wildtangent/binance-panic/binance-panic.png
 
 
 ## How to get set up
@@ -19,6 +21,11 @@ APISECRET=YOURSECRET
 ```
 
 > DON'T EVER COMMIT IT!
+
+
+```shell
+npm install
+```
 
 ### Front end app
 
