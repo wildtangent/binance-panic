@@ -8,7 +8,7 @@ In case you want to dump all your coins to TETHER (Crash under way).
 * Don't deploy this shit or put it anywhere unsafe.
 * With your API Key and secret someone can do anything to your Binance account, without authenticating or 2FA.
 
-[https://raw.githubusercontent.com/wildtangent/binance-panic/master/binance-panic.png](https://raw.githubusercontent.com/wildtangent/binance-panic/master/binance-panic.png)
+![https://raw.githubusercontent.com/wildtangent/binance-panic/master/binance-panic.png](https://raw.githubusercontent.com/wildtangent/binance-panic/master/binance-panic.png)
 
 
 ## How to get set up
