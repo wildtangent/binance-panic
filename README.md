@@ -18,6 +18,7 @@ Create a `.env` file with your Binance API keys
 ```
 APIKEY=YOURKEY
 APISECRET=YOURSECRET
+TEST=true
 ```
 
 > DON'T EVER COMMIT IT!
